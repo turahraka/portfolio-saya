@@ -335,6 +335,7 @@ img {
 .project-note {
     margin: 90px auto 0;
     text-align: center;
+    justify-content: center;
     color: #64748b;
     font-size: 15px;
 }
