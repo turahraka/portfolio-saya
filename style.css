@@ -175,7 +175,7 @@ img {
 .section-title {
     margin: 0 0 50px;
     text-align: center;
-    color: #2a0f0f;
+    color: #0f172a;
     font-size: 38px;
     line-height: 1.2;
 }
@@ -284,7 +284,7 @@ img {
 
 .project-content h3 {
     margin: 0 0 18px;
-    color: #0f2a17;
+    color: #0f172a;
     font-size: 32px;
     line-height: 1.2;
 }
@@ -335,7 +335,6 @@ img {
 .project-note {
     margin: 90px auto 0;
     text-align: center;
-    justify-content: center;
     color: #64748b;
     font-size: 15px;
 }
@@ -424,7 +423,7 @@ img {
 .contact-links {
     display: flex;
     justify-content: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 12px;
 }
 
@@ -508,7 +507,7 @@ img {
 
     .hero {
         min-height: 82vh;
-        padding: 80px;
+        padding: 80px 20px;
     }
 
     .hero-description {
